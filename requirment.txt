@@ -1,0 +1,11 @@
+sentaence -transformer
+langchain
+flask
+pypdf
+python -dotenv
+pinecone[grpc]
+langchain-pinecone
+langchain_cmmuonity
+langchain_openai
+langchain_expermemtal
+-e .
